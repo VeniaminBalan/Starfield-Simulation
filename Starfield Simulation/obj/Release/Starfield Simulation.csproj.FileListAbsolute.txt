@@ -1,0 +1,20 @@
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\bin\Release\Starfield Simulation.exe.config
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\bin\Release\Starfield Simulation.exe
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\bin\Release\Starfield Simulation.pdb
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield Simulation.csprojAssemblyReference.cache
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield_Simulation.Form1.resources
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield_Simulation.Properties.Resources.resources
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield Simulation.csproj.GenerateResource.cache
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield Simulation.csproj.CoreCompileInputs.cache
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield Simulation.exe
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield Simulation.pdb
+F:\PC\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\bin\Release\Starfield Simulation.exe.config
+F:\PC\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\bin\Release\Starfield Simulation.exe
+F:\PC\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\bin\Release\Starfield Simulation.pdb
+F:\PC\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield Simulation.csproj.AssemblyReference.cache
+F:\PC\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield_Simulation.Form1.resources
+F:\PC\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield_Simulation.Properties.Resources.resources
+F:\PC\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield Simulation.csproj.GenerateResource.cache
+F:\PC\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield Simulation.csproj.CoreCompileInputs.cache
+F:\PC\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield Simulation.exe
+F:\PC\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Release\Starfield Simulation.pdb

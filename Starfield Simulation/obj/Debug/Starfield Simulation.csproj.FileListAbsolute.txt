@@ -1,0 +1,10 @@
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\bin\Debug\Starfield Simulation.exe.config
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\bin\Debug\Starfield Simulation.exe
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\bin\Debug\Starfield Simulation.pdb
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Debug\Starfield Simulation.csprojAssemblyReference.cache
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Debug\Starfield_Simulation.Form1.resources
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Debug\Starfield_Simulation.Properties.Resources.resources
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Debug\Starfield Simulation.csproj.GenerateResource.cache
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Debug\Starfield Simulation.csproj.CoreCompileInputs.cache
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Debug\Starfield Simulation.exe
+A:\Windows\Learn\Programing\C#\Starfield Simulation\Starfield Simulation\obj\Debug\Starfield Simulation.pdb
