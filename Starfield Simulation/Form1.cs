@@ -27,7 +27,7 @@ namespace Starfield_Simulation
 
         private Graphics graphics;
 
-        Point a;
+        Point mousePos;
 
         public Form1()
         {   
@@ -35,10 +35,17 @@ namespace Starfield_Simulation
 
             InitializeComponent();
 
-            a = Cursor.Position;
+            mousePos = Cursor.Position;
             Cursor.Hide();
+        }
 
-            
+        private void OnMouseMove(object sender, EventArgs e)
+        {
+            if (Cursor.Position != mousePos)
+            {
+                Application.Exit();
+            }
+
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -49,13 +56,6 @@ namespace Starfield_Simulation
                 DrawStar(star);
                 MoveStar(star);
             }
-
-            if (Cursor.Position != a)
-            {
-                Cursor.Show();
-                Application.Exit();
-            }
-
 
             pictureBox1.Refresh();
         }
@@ -103,11 +103,6 @@ namespace Starfield_Simulation
                 };
             }
             timer1.Start();
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
